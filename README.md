@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Dhiraj Vishwakarma</h1>
+<h2 algin="left">Welcome to My Github Profile</h2>
+<h3 align="center">Hi 👋, I'm Dhiraj Vishwakarma</h3>
 
 🌱 I’m currently working on Java spring boot<br>
 💞️ I'm very passionate doing coding and learning new technology.<br>
