@@ -1,7 +1,9 @@
 
-<img src="https://www.pngwing.com/en/free-png-ygera" width="400" align="center"  />
 <h1 align="center">Hi 👋, I'm Dhiraj Vishwakarma</h1>
 
+🌱 I’m currently working on Java spring boot<br>
+💞️ I'm very passionate doing coding and learning new technology.<br>
+👀 Currently I'm working as Programmer analyst Trainee.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajvish&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajvish" /> </p>
 
 <hr>
