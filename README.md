@@ -1,9 +1,8 @@
 
+<img src="https://www.pngwing.com/en/free-png-ygera" width="400" align="center"  />
 <h1 align="center">Hi 👋, I'm Dhiraj Vishwakarma</h1>
-<img src="[https://www.cleanpng.com/png-computer-icons-avatar-social-media-blog-font-aweso-4071776](https://www.cleanpng.com/png-computer-icons-avatar-social-media-blog-font-aweso-4071776/)" width="400" align="center" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajvish&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajvish" /> </p>
-
 
 <hr>
 <h3 align="left">Connect with me:</h3>
