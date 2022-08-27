@@ -18,7 +18,7 @@
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajvish&show_icons=true&locale=en&layout=compact" alt="dhirajvish" /></p>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhirajvish&show_icons=true&locale=en" alt="dhirajvish" /></p>
 <hr>
 <br>
