@@ -18,9 +18,6 @@
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajvish&show_icons=true&locale=en&layout=compact" alt="dhirajvish" /></p>
-
-<p style="padding-left: 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhirajvish&show_icons=true&locale=en" alt="dhirajvish" /></p>
-<hr>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajvish&" alt="dhirajvish" /></p>
 <hr>
+<p style="padding-left: 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhirajvish&show_icons=true&locale=en" alt="dhirajvish" /></p>
