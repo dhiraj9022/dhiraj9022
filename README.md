@@ -1,9 +1,14 @@
 <h2 algin="left">Welcome to My Github Profile</h2>
 <h3 align="center">Hi 👋, I'm Dhiraj Vishwakarma</h3>
 
-🌱 I’m currently working on Java spring boot<br>
-💞️ I'm very passionate doing coding and learning new technology.<br>
-👀 Currently I'm working as Programmer analyst Trainee.
+👋 Hello there! I'm Dheeraj Vishwakarma, a passionate Programmer Analyst with expertise in developing applications using Java Spring Boot and working with MySQL and PostgreSQL databases. 💻 My journey in the world of programming began with curiosity and has now grown into a deep love for building robust and efficient software solutions.
+
+🌱 As a lifelong learner, I'm always eager to explore new technologies and stay up-to-date with the latest industry trends. I thrive on solving complex problems and enjoy the challenge of optimizing code for maximum performance.
+
+🚀 On my GitHub, you'll find a collection of projects and repositories showcasing my skills and experiences. From developing RESTful APIs to implementing database models and ensuring data integrity, I strive to deliver high-quality software that meets user requirements.
+
+📫 Let's connect! Feel free to reach out to me through GitHub or LinkedIn https://www.linkedin.com/in/dhiraj-vishwakarma-6b468318b/ to discuss programming, exchange ideas, or explore potential collaborations.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj9022&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj9022" /> </p>
 
 <hr>
